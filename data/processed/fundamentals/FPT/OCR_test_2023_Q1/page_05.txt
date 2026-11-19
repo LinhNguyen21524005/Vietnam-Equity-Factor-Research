@@ -1,0 +1,38 @@
+FPT CORPORATION
+10 Pham Van Bach Street, Dich Vong Ward Consolidated financial statements
+Cau Giay District, Hanoi, S.R.Vietnam = ____ For the period from 01 January 2023 to 31 March 2023
+CONSOLIDATED BALANCE SHEET (Continued)
+As at 31 March 2023
+FORM B 01-DN/HN
+Unit: VND
+ASSETS Codes Notes 31/3/2023 31/12/2022
+B. NON-CURRENT ASSETS 200 21,216,668,704,842 20,712,692,658,989
+|. Long-term receivables 210 223,260,548,278 225,090,876,189
+1. Long-term loans receivable 215 1,002,905,644 1,189,922,137
+2. Other long-term receivables 216 8 274,630,125,271 276,273,436,689
+3. Provision for long-term doubtful debts 219 (52,372,482,637) (52,372,482,637)
+ll. Fixed assets 220 11,983,455,355,040 12,032,914,964,907
+1. Tangible fixed assets 221 11 10,712,640,558,475 10,714,231,138,520
+- Cost 222 19,440, 703,827,238 19,007,982,397,113
+- Accumulated depreciation 223 (8,728,063,268,763) (8,293,751,258,593)
+2. Finance lease assets 224 29,262,160,342 31,623,636,433
+- Cost 225 54,177,548,964 54,439,419,528
+- Accumulated depreciation 226 (24,915,388,622) (22,815,783,095)
+3. Intangible assets 227 12 1,241,552,636,223 1,287,060,189,954
+- Cost 228 2,562,391,924,094 2,547,883,324,785
+- Accumulated amortisation 229 (1,320,839,287,871) (1,260,823,134,831)
+Ill. Long-term assets in progress 240 1,240,583,037,748 1,062,184,742,251
+1. Long-term construction in progress 242 13 1,240,583,037,748 1,062,184,742,251
+IV. Long-term financial investments 250 3,257,209,895,051 3,238,299,217,787 .
+1. Investments in Joint-ventures, associates 252 17 2,251,512,534,598 2,205,736,337,093
+2. Equity investments in other entities 253 7 2,364,550,933,343 2,399,073,118,584
+3. Provisi impai f long-t
+wisn aaa anil 254 (1,379,053,572,890) (1,376,710,238,490)
+financial investments :
+4. Held-to-maturity investments 255 20,200,000,000 10,200,000,000 ì
+V. Other long-term assets 260 4,512,159,868,725 4,154,202,857,855
+1. Long-term prepaid expenses 261 14 3,516,501,185,403 3,488,252,134,893
+2. Deferred tax assets 262 280,295,703,398 258,005,875,001
+3. Goodwill 269 15 715,362,979,924 407,944,847,961
+TOTAL ASSET (270=100 + 200) 270 50,741,161,416,448 51,650,403,735,130
+3

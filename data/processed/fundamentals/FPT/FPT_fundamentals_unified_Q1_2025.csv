@@ -1,0 +1,66 @@
+﻿ticker,fiscal_period,period_start,period_end,publication_date,statement_type,statement_scope,metric,value,comparative_value,comparative_period,unit,statement_code,source_pages,source_file
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Income Statement,Consolidated,gross_revenue,16064980391264,14093297397476,2024Q1,VND,,8,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Income Statement,Consolidated,net_revenue,16058140942460,14092928413699,2024Q1,VND,,8,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Income Statement,Consolidated,cost_of_sales,9756793038194,8582462733612,2024Q1,VND,,8,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Income Statement,Consolidated,gross_profit,6301347904266,5510465680087,2024Q1,VND,,8,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Income Statement,Consolidated,financial_income,573331893191,457092979986,2024Q1,VND,,8,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Income Statement,Consolidated,financial_expenses,311343769364,334065273301,2024Q1,VND,,8,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Income Statement,Consolidated,operating_profit,2993843378813,2515527123032,2024Q1,VND,,8,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Income Statement,Consolidated,profit_before_tax,3024693510849,2533582054552,2024Q1,VND,,8,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Income Statement,Consolidated,net_profit_after_tax,2595557480309,2160265289642,2024Q1,VND,,8,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Income Statement,Consolidated,net_profit_attributable_to_owners,2174301386525,1798030863528,2024Q1,VND,,8,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Income Statement,Consolidated,non_controlling_interests,421256093784,362234426114,2024Q1,VND,,8,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Income Statement,Consolidated,basic_eps,1478,1231,2024Q1,VND/share,,8,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Income Statement,Consolidated,diluted_eps,1478,1231,2024Q1,VND/share,,8,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,current_assets,46075510989597,45535942846453,2024-12-31,VND,100,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,cash_and_cash_equivalents,6755645214252,9315440438884,2024-12-31,VND,110,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,short_term_financial_investments,23768377985785,21785213686808,2024-12-31,VND,120,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,short_term_receivables,11997831491115,11381523992803,2024-12-31,VND,130,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,inventories,2107939084995,1856756949030,2024-12-31,VND,140,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,other_current_assets,1445717213450,1197007778928,2024-12-31,VND,150,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,non_current_assets,27922162132192,26464052832167,2024-12-31,VND,200,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,long_term_receivables,433719282180,331646166008,2024-12-31,VND,210,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,fixed_assets,15548353983782,14816131186204,2024-12-31,VND,220,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,long_term_assets_in_progress,2812693461694,2559766724411,2024-12-31,VND,240,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,long_term_financial_investments,3526503466795,3318095237260,2024-12-31,VND,250,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,other_non_current_assets,5600891937741,5438413518284,2024-12-31,VND,260,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,total_assets,73997673121789,71999995678620,2024-12-31,VND,270,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,current_liabilities,33917117422503,34836184067740,2024-12-31,VND,310,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,long_term_liabilities,2183901002344,1436271506080,2024-12-31,VND,330,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,total_liabilities,36101018424847,36272455573820,2024-12-31,VND,300,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,owners_equity,37893904696942,35724790104800,2024-12-31,VND,410,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,total_equity,37896654696942,35727540104800,2024-12-31,VND,400,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,non_controlling_interests,5822598933827,5933309621004,2024-12-31,VND,429,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,,2025-03-31,2025-04-22,Balance Sheet,Consolidated,other_resources_and_funds,2750000000,2750000000,2024-12-31,VND,430,4-7,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,profit_before_tax,3024693510849,2533582054552,2024Q1,VND,01,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,depreciation_amortisation,644023121646,617374340526,2024Q1,VND,02,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,provisions,85128981266,81105147752,2024Q1,VND,03,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,foreign_exchange_gain_loss,-71839057689,-22556832506,2024Q1,VND,04,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,gain_loss_investing,-490145755006,-337553397592,2024Q1,VND,05,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,interest_expense,152389538333,137833720086,2024Q1,VND,06,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,operating_profit_before_wc,3344250339399,3009785032818,2024Q1,VND,08,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,change_receivables,-595412339418,-167453550762,2024Q1,VND,09,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,change_inventories,-248648680346,-271641024449,2024Q1,VND,10,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,change_payables,-3168677797967,-1997629152574,2024Q1,VND,11,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,change_prepaid_expenses,-205624354170,-67254616445,2024Q1,VND,12,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,interest_paid,-161803237457,-160111959538,2024Q1,VND,14,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,corporate_income_tax_paid,-1286964186262,-633330715962,2024Q1,VND,15,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,other_operating_cash_outflows,-184023466180,-369965368266,2024Q1,VND,17,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,net_cash_operating,-2506903722401,-657601355178,2024Q1,VND,20,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,acquisition_fixed_assets,-2607427905351,-647322276985,2024Q1,VND,21,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,proceeds_sale_fixed_assets,3212123070,10295249160,2024Q1,VND,22,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,cash_lending_debt_instruments,-10159337998571,-8977359495900,2024Q1,VND,23,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,cash_recovered_lending,8175498984215,6851263040484,2024Q1,VND,24,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,equity_investments,-94356673179,-733152087882,2024Q1,VND,25,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,cash_recovered_investments,5739731680,0,2024Q1,VND,26,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,interest_dividends_received,279282736376,284299976870,2024Q1,VND,27,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,net_cash_investing,-4397389001760,-3211975594253,2024Q1,VND,30,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,proceeds_borrowings,12175546656648,10487172776046,2024Q1,VND,33,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,repayment_borrowings,-7902260870560,-7982467720579,2024Q1,VND,34,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,repayment_finance_leases,-230583912,-345563252,2024Q1,VND,35,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,dividends_paid,-9557000,-535074322385,2024Q1,VND,36,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,net_cash_financing,4273045645176,1969285169830,2024Q1,VND,40,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,net_change_cash,-2631247078985,-1900291779601,2024Q1,VND,50,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,opening_cash,9315440438884,8279156683221,2024Q1,VND,60,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,fx_effect,71451854353,-37407398624,2024Q1,VND,61,10-11,FPT_2025_Q1_Consolidated_FS.pdf
+FPT,2025Q1,2025-01-01,2025-03-31,2025-04-22,Cash Flow Statement,Consolidated,closing_cash,6755645214252,6341457504996,2024Q1,VND,70,10-11,FPT_2025_Q1_Consolidated_FS.pdf

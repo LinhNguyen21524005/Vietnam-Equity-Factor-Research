@@ -1,0 +1,16 @@
+﻿ticker,fiscal_period,period_end,publication_date,category,ratio,value,unit,formula
+FPT,2025Q1,2025-03-31,2025-04-22,Profitability,gross_profit_margin,0.3924083072159582,decimal,Gross profit / Net revenue
+FPT,2025Q1,2025-03-31,2025-04-22,Profitability,operating_profit_margin,0.1864377320849672,decimal,Operating profit / Net revenue
+FPT,2025Q1,2025-03-31,2025-04-22,Profitability,net_profit_margin,0.1616349918467821,decimal,Net income / Net revenue
+FPT,2025Q1,2025-03-31,2025-04-22,Profitability,roa_quarterly,0.03555614965136661,decimal,Quarterly net income / Average total assets
+FPT,2025Q1,2025-03-31,2025-04-22,Profitability,roe_quarterly,0.07050827482184124,decimal,Quarterly net income / Average total equity
+FPT,2025Q1,2025-03-31,2025-04-22,Growth,revenue_growth_yoy,0.13944671193041192,decimal,Q1 2025 revenue / Q1 2024 revenue - 1
+FPT,2025Q1,2025-03-31,2025-04-22,Growth,net_income_growth_yoy,0.2014994143331057,decimal,Q1 2025 net income / Q1 2024 net income - 1
+FPT,2025Q1,2025-03-31,2025-04-22,Growth,asset_growth_qoq,0.02774552170927702,decimal,March 2025 assets / December 2024 assets - 1
+FPT,2025Q1,2025-03-31,2025-04-22,Quality,cfo_to_net_income,-0.9658440398332285,decimal,Operating cash flow / Net income
+FPT,2025Q1,2025-03-31,2025-04-22,Quality,cfo_to_revenue,-0.15611419350370698,decimal,Operating cash flow / Net revenue
+FPT,2025Q1,2025-03-31,2025-04-22,Leverage,liabilities_to_assets,0.48786694097029476,decimal,Total liabilities / Total assets
+FPT,2025Q1,2025-03-31,2025-04-22,Liquidity,current_ratio,1.3584736702602935,times,Current assets / Current liabilities
+FPT,2025Q1,2025-03-31,2025-04-22,Liquidity,cash_ratio,0.1991809955456247,times,Cash and cash equivalents / Current liabilities
+FPT,2025Q1,2025-03-31,2025-04-22,Profitability,roa_annualized,0.14222459860546643,decimal,Quarterly ROA multiplied by 4
+FPT,2025Q1,2025-03-31,2025-04-22,Profitability,roe_annualized,0.282033099287365,decimal,Quarterly ROE multiplied by 4

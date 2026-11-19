@@ -1,0 +1,14 @@
+﻿metric,value,ticker,fiscal_period,publication_date,statement_type,statement_scope,unit,comparative_value,comparative_period
+gross_revenue,16064980391264,FPT,2025Q1,2025-04-22,Income Statement,Consolidated,VND,14093297397476,2024Q1
+net_revenue,16058140942460,FPT,2025Q1,2025-04-22,Income Statement,Consolidated,VND,14092928413699,2024Q1
+cost_of_sales,9756793038194,FPT,2025Q1,2025-04-22,Income Statement,Consolidated,VND,8582462733612,2024Q1
+gross_profit,6301347904266,FPT,2025Q1,2025-04-22,Income Statement,Consolidated,VND,5510465680087,2024Q1
+financial_income,573331893191,FPT,2025Q1,2025-04-22,Income Statement,Consolidated,VND,457092979986,2024Q1
+financial_expenses,311343769364,FPT,2025Q1,2025-04-22,Income Statement,Consolidated,VND,334065273301,2024Q1
+operating_profit,2993843378813,FPT,2025Q1,2025-04-22,Income Statement,Consolidated,VND,2515527123032,2024Q1
+profit_before_tax,3024693510849,FPT,2025Q1,2025-04-22,Income Statement,Consolidated,VND,2533582054552,2024Q1
+net_profit_after_tax,2595557480309,FPT,2025Q1,2025-04-22,Income Statement,Consolidated,VND,2160265289642,2024Q1
+net_profit_attributable_to_owners,2174301386525,FPT,2025Q1,2025-04-22,Income Statement,Consolidated,VND,1798030863528,2024Q1
+non_controlling_interests,421256093784,FPT,2025Q1,2025-04-22,Income Statement,Consolidated,VND,362234426114,2024Q1
+basic_eps,1478,FPT,2025Q1,2025-04-22,Income Statement,Consolidated,VND/share,1231,2024Q1
+diluted_eps,1478,FPT,2025Q1,2025-04-22,Income Statement,Consolidated,VND/share,1231,2024Q1

@@ -1,0 +1,38 @@
+
+# Python environments
+.venv/
+.venv_*/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*api_key*
+*secret*
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Large raw source data
+data/raw/
+
+# Generated OCR intermediate files
+results/tables/ocr/
+
+# Temporary outputs
+*.bak
+*.swp

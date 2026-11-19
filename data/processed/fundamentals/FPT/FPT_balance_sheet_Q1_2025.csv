@@ -1,0 +1,21 @@
+﻿ticker,fiscal_period,balance_sheet_date,publication_date,statement_type,statement_scope,metric,metric_description,statement_code,value,unit,source_file,comparative_value,comparative_date
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,current_assets,Current assets,100,46075510989597,VND,FPT_2025_Q1_Consolidated_FS.pdf,45535942846453,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,cash_and_cash_equivalents,Cash and cash equivalents,110,6755645214252,VND,FPT_2025_Q1_Consolidated_FS.pdf,9315440438884,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,short_term_financial_investments,Short-term financial investments,120,23768377985785,VND,FPT_2025_Q1_Consolidated_FS.pdf,21785213686808,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,short_term_receivables,Short-term receivables,130,11997831491115,VND,FPT_2025_Q1_Consolidated_FS.pdf,11381523992803,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,inventories,Inventories,140,2107939084995,VND,FPT_2025_Q1_Consolidated_FS.pdf,1856756949030,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,other_current_assets,Other short-term assets,150,1445717213450,VND,FPT_2025_Q1_Consolidated_FS.pdf,1197007778928,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,non_current_assets,Non-current assets,200,27922162132192,VND,FPT_2025_Q1_Consolidated_FS.pdf,26464052832167,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,long_term_receivables,Long-term receivables,210,433719282180,VND,FPT_2025_Q1_Consolidated_FS.pdf,331646166008,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,fixed_assets,Fixed assets,220,15548353983782,VND,FPT_2025_Q1_Consolidated_FS.pdf,14816131186204,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,long_term_assets_in_progress,Long-term assets in progress,240,2812693461694,VND,FPT_2025_Q1_Consolidated_FS.pdf,2559766724411,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,long_term_financial_investments,Long-term financial investments,250,3526503466795,VND,FPT_2025_Q1_Consolidated_FS.pdf,3318095237260,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,other_non_current_assets,Other long-term assets,260,5600891937741,VND,FPT_2025_Q1_Consolidated_FS.pdf,5438413518284,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,total_assets,Total assets,270,73997673121789,VND,FPT_2025_Q1_Consolidated_FS.pdf,71999995678620,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,current_liabilities,Current liabilities,310,33917117422503,VND,FPT_2025_Q1_Consolidated_FS.pdf,34836184067740,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,long_term_liabilities,Long-term liabilities,330,2183901002344,VND,FPT_2025_Q1_Consolidated_FS.pdf,1436271506080,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,total_liabilities,Total liabilities,300,36101018424847,VND,FPT_2025_Q1_Consolidated_FS.pdf,36272455573820,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,owners_equity,Owner's equity,410,37893904696942,VND,FPT_2025_Q1_Consolidated_FS.pdf,35724790104800,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,total_equity,Total equity,400,37896654696942,VND,FPT_2025_Q1_Consolidated_FS.pdf,35727540104800,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,non_controlling_interests,Non-controlling interests,429,5822598933827,VND,FPT_2025_Q1_Consolidated_FS.pdf,5933309621004,2024-12-31
+FPT,2025Q1,2025-03-31,2025-04-22,Balance Sheet,Consolidated,other_resources_and_funds,Other resources and funds,430,2750000000,VND,FPT_2025_Q1_Consolidated_FS.pdf,2750000000,2024-12-31

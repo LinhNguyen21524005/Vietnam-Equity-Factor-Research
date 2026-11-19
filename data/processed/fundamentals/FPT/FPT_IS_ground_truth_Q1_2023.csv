@@ -1,0 +1,24 @@
+ticker,fiscal_period,metric,value,unit,statement_type,source_file,source_page,verification_status
+FPT,2023Q1,gross_revenue,11683021258544,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,deductions,1642375241,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,net_revenue,11681378883303,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,cost_of_sales,7113499882609,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,gross_profit,4567879000694,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,financial_income,676476546426,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,financial_expenses,496815340139,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,interest_expense,147985668274,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,share_profit_associates,43757073944,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,selling_expenses,1101871534159,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,admin_expenses,1592492464630,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,operating_profit,2096933282136,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,other_income,42879374489,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,other_expenses,19169009527,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,other_profit,23710364962,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,profit_before_tax,2120643647098,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,current_tax,308330144701,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,deferred_tax,2514048503,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,net_income,1809799453894,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,profit_attributable_owners,1493562580890,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,non_controlling_interests,316236873004,VND,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,basic_eps,1361,VND/share,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
+FPT,2023Q1,diluted_eps,1361,VND/share,Income Statement,FPT_2023_Q1_Consolidated_FS.pdf,8,Provisional
